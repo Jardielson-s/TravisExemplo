@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TravisExemplo/index.html/static/css/main.073c9b0a.css",
-    "main.js": "/TravisExemplo/index.html/static/js/main.84b87873.js",
-    "static/js/787.2f94e462.chunk.js": "/TravisExemplo/index.html/static/js/787.2f94e462.chunk.js",
-    "static/media/logo.svg": "/TravisExemplo/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TravisExemplo/index.html/index.html",
-    "main.073c9b0a.css.map": "/TravisExemplo/index.html/static/css/main.073c9b0a.css.map",
-    "main.84b87873.js.map": "/TravisExemplo/index.html/static/js/main.84b87873.js.map",
-    "787.2f94e462.chunk.js.map": "/TravisExemplo/index.html/static/js/787.2f94e462.chunk.js.map"
+    "main.css": "/TravisExemplo/static/css/main.073c9b0a.css",
+    "main.js": "/TravisExemplo/static/js/main.6d9fc3ac.js",
+    "static/js/787.2f94e462.chunk.js": "/TravisExemplo/static/js/787.2f94e462.chunk.js",
+    "static/media/logo.svg": "/TravisExemplo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TravisExemplo/index.html",
+    "main.073c9b0a.css.map": "/TravisExemplo/static/css/main.073c9b0a.css.map",
+    "main.6d9fc3ac.js.map": "/TravisExemplo/static/js/main.6d9fc3ac.js.map",
+    "787.2f94e462.chunk.js.map": "/TravisExemplo/static/js/787.2f94e462.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.84b87873.js"
+    "static/js/main.6d9fc3ac.js"
   ]
 }
